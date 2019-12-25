@@ -27,6 +27,8 @@ python3 에서 작동합니다.
 
 명령어를 수정할때마다 자동으로 백업을 합니다. 확장자 없는 command 파일과 command_time 파일은 이를 위한 파일입니다. 삭제할 경우, 복원 기능이 작동하지 않습니다.
 
+단, 복원 기능은 자동이 아닙니다. 혹시라도 봇을 껏을때 명령어 복원을 원한다면, '!복원'을 입력해주세요.
+
 [Command Table](https://www.notion.so/04b2c750e7f14f6895d1c717f8ccbde1)
 
 관리용 명령어의 경우, Streamer와 Moderator 이외의 경우 사용할 수 없습니다.
