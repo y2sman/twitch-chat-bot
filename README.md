@@ -1,5 +1,8 @@
 # Twitch Chat Bot
 
+## 참고
+[추가적인 설명이 있는 블로그](https://y2sman.github.io/2019/12/25/2019_12_25/)
+
 ## 설치
 
 python3 에서 작동합니다.
